@@ -1,0 +1,10 @@
+DemoFilelnputStream
+
+public void Test(){
+private Integer gid;
+private String gname;
+private String hobby;
+
+
+}
+
